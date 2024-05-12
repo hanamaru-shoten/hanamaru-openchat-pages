@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhanamaru_openchat_pages=self.webpackChunkhanamaru_openchat_pages||[]).push([[907],{583:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/sites/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

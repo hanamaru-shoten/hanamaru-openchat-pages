@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhanamaru_openchat_pages=self.webpackChunkhanamaru_openchat_pages||[]).push([[616],{5205:a=>{a.exports=JSON.parse('{"tags":[{"label":"Python","permalink":"/blog/tags/python","count":2},{"label":"API","permalink":"/blog/tags/api","count":2},{"label":"CSV","permalink":"/blog/tags/csv","count":2}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhanamaru_openchat_pages=self.webpackChunkhanamaru_openchat_pages||[]).push([[405],{4653:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/hanamaru-openchat-pages/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

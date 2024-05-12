@@ -119,4 +119,4 @@ tags:
 
 ---
 
-![2022 年 11 月](/img/word_cloud_img/2023-11.png)
+![2022 年 11 月](/img/word_cloud_img/2022-11.png)

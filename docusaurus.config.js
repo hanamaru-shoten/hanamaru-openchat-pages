@@ -97,11 +97,11 @@ const config = {
             items: [
               {
                 label: "Top",
-                href: "/",
+                to: "/",
               },
               {
                 label: "Bonus Track",
-                href: "/Blog",
+                to: "/blog",
               },
             ],
           },
